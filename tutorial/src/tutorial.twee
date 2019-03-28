@@ -107,9 +107,9 @@ So what happens when the scanner finds a device? This is where things get a litt
 </ul>
 </div>
 
-<<buttplugdeviceadded>>
+<<buttplugdeviceaddedhandler>>
 <<append "#devicelist">><li>_device.Name</li><</append>>
-<</buttplugdeviceadded>>
+<</buttplugdeviceaddedhandler>>
 
 Now that you know how to find devices, [[we can talk about what you can do with them|Handling Devices]]!
 
